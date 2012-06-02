@@ -1,0 +1,7 @@
+This is intended to be a simple todo list application.  I believe I spent more than the suggested 2 hours on it, but I wasn't willing to turn in something that wasn't definitely superior to pen and paper.
+
+NOTES
+
+The library I used for date picking is one I've used before, but only in cases where the dates were not allowed to be null.  I would have to do some tweaking to get the text fields to display properly when empty.
+
+I opted to save the full datetime of completion even though I'm not using it in this version.  If I were to continue on a project like this I would want the user to be able to view a history of task completion.
